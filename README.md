@@ -1,3 +1,4 @@
 # Repo1
 My repeated repository
-Content changes at repository 
+Content added at master version
+content added
